@@ -7,6 +7,6 @@ Not to be mistaken with the well-known Fruit Ninja game on the App Store, this i
 
 ## Inspiration
 
-Participated in a game development one day hackathon and I thought it would be fun to bring our beloved Desktop game Fruit Ninja to iOS!
+Participated in a one-day game development hackathon and I thought it would be fun to bring our beloved Desktop game Fruit Ninja to iOS!
 
 Recreated a few similar level experiences from the Desktop version as well as added some fun new puzzles to solve.
